@@ -13,13 +13,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
-  - Student 1: ❔
+  - Student 1: Ayoub AMINE
 
-  - Student 2: ❔
+  - Student 2: Yassine ALIJATE
 
-  - Student 3: ❔
+  - Student 3: Yassine AMMACH
 
-  - Student 4: ❔
+  - Student 4: Omar ALABOUCH
 
 ## Getting Started
 
